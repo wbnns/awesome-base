@@ -23,6 +23,14 @@ incubated by Coinbase and built on the open-source OP Stack.
 + [Base Friends @ ETHDenver 2023 Mint](https://base.mirror.xyz/nft/0x0856c0E5DDCfC71Ad07D765ddCabAc0eac5b283a/0)
 + [Base.org → Base.eth Mint](https://zora.co/collections/0x554f3b93d82ce2435206f3ad8ac4154d056cd18e)
 
+## Developers
+
+### Node Providers
+
++ [Blockdaemon](https://try.blockdaemon.com/base-testnet/)
++ [Infura](https://pages.consensys.net/infura-base-waitlist)
++ [QuickNode](https://www.quicknode.com/chains/base)
+
 ## Explorers
 
 + [BaseScan](https://goerli.basescan.org/)
