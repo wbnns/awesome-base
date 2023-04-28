@@ -19,10 +19,10 @@ any time.
 
 _This list is being provided as is. No guarantee, representation, or warranty is
 being made, express or implied, as to the safety or correctness of the
-associated code. Users may experience delays, failures, errors, omissions or
-loss of transmitted information. Nothing in this repo should be construed as
-investment advice or legal advice for any particular facts or circumstances and
-is not meant to replace competent counsel. It is strongly advised for you to
-contact a reputable attorney in your jurisdiction for any questions or concerns
-with respect thereto. Contributors are not liable for any use of the foregoing,
-and users should proceed with caution and use at their own risk._
+associated code. This list is not an official list. Users should do their own
+research and use the above sites at their own risk. Users of the above links may
+experience delays, failures, errors, omissions or financial losses or loss of
+transmitted information. Nothing in this repo should be construed as investment
+advice or legal advice for any particular facts or circumstances. Contributors
+to this repository are not liable for any use of the foregoing, and users should
+proceed with caution and use at their own risk._
