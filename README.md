@@ -6,7 +6,7 @@
 projects, other resources and more. [Base](https://base.org/) is an Ethereum L2,
 incubated by Coinbase and built on the open-source OP Stack.
 
-## Base
+## Official Links
 
 + [Base.org](https://base.org/)
 + [Base Blog](https://base.mirror.xyz/)
@@ -16,7 +16,7 @@ incubated by Coinbase and built on the open-source OP Stack.
 + [Base Guild](https://guild.xyz/buildonbase)
 + [Base Twitter](https://twitter.com/buildonbase)
 
-## Base NFTs
+## Official NFTs
 
 + [Base, Introduced Mint](http://mint.base.org/)
 + [Base x Optimism Mint](https://base.mirror.xyz/H_KPwV31M7OJT-THUnU7wYjOF16Sy7aWvaEr5cgHi8I)
@@ -36,6 +36,17 @@ incubated by Coinbase and built on the open-source OP Stack.
 + [Infura](https://pages.consensys.net/infura-base-waitlist)
 + [QuickNode](https://www.quicknode.com/chains/base)
 
+### Oracles
+
++ [Chainlink](https://docs.chain.link/data-feeds/price-feeds/addresses/?network=base)
++ [Pyth](https://docs.base.org/tools/pyth)
+
+### Toolchains
+
++ [Foundry](https://book.getfoundry.sh/)
++ [Hardhat](https://hardhat.org/)
++ [thirdweb](https://portal.thirdweb.com/cli)
+
 ## Explorers
 
 + [BaseScan](https://goerli.basescan.org/)
@@ -43,8 +54,9 @@ incubated by Coinbase and built on the open-source OP Stack.
 
 ## Faucets
 
-+ [Coinbase Faucet](https://coinbase.com/faucets/base-ethereum-goerli-faucet)
-+ [Quicknode Faucet](https://faucet.quicknode.com/drip)
++ [Coinbase](https://coinbase.com/faucets/base-ethereum-goerli-faucet)
++ [Quicknode](https://faucet.quicknode.com/drip)
+
 
 ## Contributions
 
@@ -57,12 +69,12 @@ any time.
 
 ## Disclaimer
 
-_This list is being provided as is. No guarantee, representation, or warranty is
-being made, express or implied, as to the safety or correctness of the
-associated code. This list is not an official list. Users should do their own
-research and use the above sites at their own risk. Users of the above links may
-experience delays, failures, errors, omissions or financial losses or loss of
-transmitted information. Nothing in this repo should be construed as investment
-advice or legal advice for any particular facts or circumstances. Contributors
-to this repository are not liable for any use of the foregoing, and users should
-proceed with caution and use at their own risk._
+_This list is community-curated and is being provided as is. No guarantee,
+representation, or warranty is being made, express or implied, as to the safety
+or correctness of the associated code. This list is not an official list. Users
+should do their own research and use the above sites at their own risk. Users of
+the above links may experience delays, failures, errors, omissions or financial
+losses or loss of transmitted information. Nothing in this repo should be
+construed as investment advice or legal advice for any particular facts or
+circumstances. Contributors to this repository are not liable for any use of the
+foregoing, and users should proceed with caution and use at their own risk._
