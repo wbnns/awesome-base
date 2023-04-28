@@ -25,4 +25,4 @@ investment advice or legal advice for any particular facts or circumstances and
 is not meant to replace competent counsel. It is strongly advised for you to
 contact a reputable attorney in your jurisdiction for any questions or concerns
 with respect thereto. Contributors are not liable for any use of the foregoing,
-and users should proceed with caution and use at their own risk.
+and users should proceed with caution and use at their own risk._
