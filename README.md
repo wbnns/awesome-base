@@ -17,6 +17,7 @@ the open-source OP Stack.
 + [Base Discord](https://base.org/discord)
 + [Base Guild](https://guild.xyz/buildonbase)
 + [Base Twitter](https://twitter.com/buildonbase)
++ [Base Bridge](https://bridge.base.org/)
 
 ## Official NFTs
 
@@ -41,7 +42,7 @@ the open-source OP Stack.
 ### Oracles
 
 + [Chainlink](https://docs.chain.link/data-feeds/price-feeds/addresses/?network=base)
-+ [Pyth](https://docs.base.org/tools/pyth)
++ [Pyth](https://pyth.network/price-feeds)
 
 ### Toolchains
 
