@@ -15,7 +15,7 @@ other resources and more.
 + [Base Guild](https://guild.xyz/buildonbase)
 + [Base Quests](https://quests.base.org/)
 + [Base Status](https://status.base.org/)
-+ [Base X](https://x.com/buildonbase)
++ [Base Twitter / X](https://x.com/buildonbase)
 
 ### Bridges
 
