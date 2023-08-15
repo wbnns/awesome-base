@@ -650,9 +650,9 @@ other resources and more.
 
 ## Contributions
 
-This is a community-curated list of Base-related links. If you have a link that
-you would like to add, please open a pull request. Please try to match or
-improve upon the format of the existing entries.
+This is a list of Base-related links. If you have a link that you would like to
+add, please open a pull request. Please try to match or improve upon the format
+of the existing entries.
 
 Links that are inactive, outdated, or no longer relevant may be removed at
 any time.
