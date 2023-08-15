@@ -668,3 +668,7 @@ losses or loss of transmitted information. Nothing in this repo should be
 construed as investment advice or legal advice for any particular facts or
 circumstances. Contributors to this repository are not liable for any use of the
 foregoing, and users should proceed with caution and use at their own risk._
+
+## License
+
+[MIT License](LICENSE)
