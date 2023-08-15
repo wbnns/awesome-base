@@ -6,7 +6,7 @@ including (d)apps, projects, other resources and more.
 [Base](https://base.org/) is an Ethereum L2, incubated by Coinbase and built on
 the open-source OP Stack.
 
-## Official Links
+## Base Official Links
 
 + [Base.org](https://base.org/)
 + [Base Blog](https://base.mirror.xyz/)
