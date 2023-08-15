@@ -1,7 +1,7 @@
 # Awesome Base [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Awesome Base** is a community-curated list of Awesome Base ecosystem links including (d)apps,
-projects, other resources and more.
+**Awesome Base** is a community-curated list of Awesome Base ecosystem links
+including (d)apps, projects, other resources and more.
 
 [Base](https://base.org/) is an Ethereum L2, incubated by Coinbase and built on
 the open-source OP Stack.
@@ -22,8 +22,8 @@ the open-source OP Stack.
 - **[Across Protocol](https://across.to/)**: Across Protocol is a leading
   cross-chain token bridge that is secured by UMA's optimistic oracle. It is
   optimized for capital efficiency with a single liquidity pool, a competitive
-  relayer landscape, and a no-slippage fee model. You can expect secure, fast and
-  affordable cross-chain token transfers with Across.
+  relayer landscape, and a no-slippage fee model. You can expect secure, fast
+  and affordable cross-chain token transfers with Across.
 
 - **[Axelar](https://axelar.network)**: Axelar delivers secure interchain
   communication. That means dApp users can interact with any asset, any
@@ -35,8 +35,8 @@ the open-source OP Stack.
 
 - **[Celer Network](https://celer.network/)**: Celer Network is a blockchain
   interoperability protocol that allows users to seamlessly access a diverse
-range of tokens, DeFi protocols, GameFi applications, NFT marketplaces, and more
-across multiple blockchains with just one click.
+  range of tokens, DeFi protocols, GameFi applications, NFT marketplaces, and more
+  across multiple blockchains with just one click.
 
 - **[Hop Protocol](https://hop.exchange/)**: A protocol for sending tokens
   across rollups and their shared layer-1 network in a quick and trustless
