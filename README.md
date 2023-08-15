@@ -5,7 +5,7 @@
 **Awesome Base** is a community-curated list of awesome Base ecosystem links
 including (d)apps, projects, other resources and more.
 
-**[Base](https://base.org)** is an Ethereum L2, incubated by Coinbase.
+**Base** is an Ethereum L2, incubated by Coinbase.
 
 ## Base Official Links
 
@@ -13,6 +13,7 @@ including (d)apps, projects, other resources and more.
 + [Base Blog](https://base.mirror.xyz/)
 + [Base Bridge](https://bridge.base.org/)
 + [Base Discord](https://base.org/discord)
++ [Base GitHub](https://github.com/base-org)
 + [Base Guild](https://guild.xyz/buildonbase)
 + [Base Quests](https://quests.base.org/)
 + [Base Status](https://status.base.org/)
