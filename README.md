@@ -1,7 +1,7 @@
 # Awesome Base [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Awesome Base** is a community-curated list of awesome Base ecosystem links
-including (d)apps, projects, other resources and more.
+**Awesome Base** is a community-curated list of Base ecosystem links including
+(d)apps, projects, other resources and more.
 
 **Base** is an Ethereum L2, incubated by Coinbase.
 
