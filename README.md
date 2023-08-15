@@ -1,7 +1,5 @@
 # Awesome Base [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![Base](logo.webp)
-
 **Awesome Base** is a community-curated list of awesome Base ecosystem links
 including (d)apps, projects, other resources and more.
 
