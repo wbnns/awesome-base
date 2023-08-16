@@ -11,6 +11,7 @@ and more.
 + [Base Blog](https://base.mirror.xyz/)
 + [Base Bridge](https://bridge.base.org/)
 + [Base Discord](https://base.org/discord)
++ [Base Farcaster](https://warpcast.com/base)
 + [Base GitHub](https://github.com/base-org)
 + [Base Guild](https://guild.xyz/buildonbase)
 + [Base Quests](https://quests.base.org/)
