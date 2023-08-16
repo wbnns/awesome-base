@@ -650,8 +650,8 @@ and more.
 
 ## Contributions
 
-If you have something that you would like to add, please open a pull request.
-Please try to match or improve upon the format of the existing entries. Links
+If you have something you'd like to add, please open a pull request and ensure
+it matches the format + ordering (alphanumerical) of the existing entries. Links
 that are inactive, outdated, or no longer relevant may be removed at any time.
 
 ## License
